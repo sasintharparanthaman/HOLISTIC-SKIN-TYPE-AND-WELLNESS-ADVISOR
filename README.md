@@ -61,7 +61,8 @@ The project demonstrates the effective integration of deep learning, image proce
 
 #### Output2 - Wellness Advisor
 
-<img width="628" height="488" alt="image" src="https://github.com/user-attachments/assets/ec1d6485-b5ad-41f1-b7f2-5150c0fff5be" />
+<img width="765" height="253" alt="Screenshot 2025-12-27 164239" src="https://github.com/user-attachments/assets/b3c89f06-49e1-4fc1-8b95-b8a902c8189c" />
+
 
 Detection Accuracy: 95%
 Note: These metrics can be customized based on your actual performance evaluations.
